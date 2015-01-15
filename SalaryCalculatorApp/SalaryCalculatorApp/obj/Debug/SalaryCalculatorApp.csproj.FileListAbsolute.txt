@@ -1,0 +1,23 @@
+D:\Bristy\24-Dec-2014Projects\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+D:\Bristy\24-Dec-2014Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csprojResolveAssemblyReference.cache
+D:\Bristy\24-Dec-2014Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Properties.Resources.resources
+D:\Bristy\24-Dec-2014Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csproj.GenerateResource.Cache
+D:\Bristy\24-Dec-2014Projects\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe
+D:\Bristy\24-Dec-2014Projects\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.pdb
+D:\Bristy\24-Dec-2014Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+D:\Bristy\24-Dec-2014Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb
+D:\Bristy\24-Dec-2014Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.SalaryCalculatorUI.resources
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+E:\FTFL Class Lecture\BITM course\21-Dec-2014\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb
+E:\Shawon\11-Jan-2015\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+E:\Shawon\11-Jan-2015\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+E:\Shawon\11-Jan-2015\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb
+E:\Shawon\11-Jan-2015\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csprojResolveAssemblyReference.cache
+E:\Shawon\11-Jan-2015\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.SalaryCalculatorUI.resources
+E:\Shawon\11-Jan-2015\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Properties.Resources.resources
+E:\Shawon\11-Jan-2015\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csproj.GenerateResource.Cache
+E:\Shawon\11-Jan-2015\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe
+E:\Shawon\11-Jan-2015\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.pdb
+E:\Shawon\11-Jan-2015\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\nunit.framework.dll
+E:\Shawon\11-Jan-2015\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\nunit.framework.xml
